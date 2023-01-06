@@ -1,5 +1,6 @@
 # RealSense-TouchDesigner-particle
-It is a Rnd project to use Intel RealSense with TouchDesigner for tracking and particle system on 3d model.
+It is a Rnd project to use Intel RealSense with TouchDesigner for tracking and particle system on 3d model.  
+![demo](https://user-images.githubusercontent.com/64575677/210968764-93bc76e8-2513-4371-b229-7b59c796c974.gif)
 
 ## Usage
 
